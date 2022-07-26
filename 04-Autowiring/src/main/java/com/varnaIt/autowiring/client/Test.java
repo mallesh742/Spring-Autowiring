@@ -8,6 +8,7 @@ public class Test {
 	public static void main(String[] args) {
 	
 		ApplicationContext context = new ClassPathXmlApplicationContext("Config4.xml");
+		System.out.println("Hi");
 
 	}
 
