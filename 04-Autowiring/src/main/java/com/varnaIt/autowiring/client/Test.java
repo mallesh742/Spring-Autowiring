@@ -9,6 +9,8 @@ public class Test {
 	
 		ApplicationContext context = new ClassPathXmlApplicationContext("Config4.xml");
 		System.out.println("Hi");
+		System.out.println("Sucessfully commit to git");
+		
 
 	}
 
